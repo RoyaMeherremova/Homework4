@@ -42,12 +42,20 @@
 //}
 //else
 //}
-int[] nums= { 1, 5, 3, 4, 8, 9 };
+//int[] nums= { 1, 5, 3, 4, 8, 9 };
+//int sum = 0;
+//for (i = 0; i < nums.lenght; i++) ;
+//if (i% 2 == 1) ;
+//sum += i;
+//{
+//    Console.Writeline(sum)
+//}
+
+int[] nums = { 1, 5, 3, 4, 8, 9 };
 int sum = 0;
 for (i = 0; i < nums.lenght; i++) ;
-if (i% 2 == 1) ;
+if (i % 2 == 0) ;
 sum += i;
 {
     Console.Writeline(sum)
 }
-
